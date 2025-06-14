@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "loPkCxx0RdE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eli\\.vscode\\ESTRUCTURA-DE-DATOS\\ArraysYMatrices\\ArraysYMatrices.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema al leer el archivo de caché C:\\Users\\Eli\\.vscode\\ESTRUCTURA-DE-DATOS\\ArraysYMatrices\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Eli\\.vscode\\ESTRUCTURA-DE-DATOS\\ArraysYMatrices\\ArraysYMatrices.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Eli\\.vscode\\ESTRUCTURA-DE-DATOS\\ArraysYMatrices\\ArraysYMatrices.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\bin\Debug\net9.0\ArraysYMatrices.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\bin\Debug\net9.0\ArraysYMatrices.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\bin\Debug\net9.0\ArraysYMatrices.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\bin\Debug\net9.0\ArraysYMatrices.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\bin\Debug\net9.0\ArraysYMatrices.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\refint\ArraysYMatrices.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ArraysYMatrices.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\ArraysYMatrices\obj\Debug\net9.0\ref\ArraysYMatrices.dll
