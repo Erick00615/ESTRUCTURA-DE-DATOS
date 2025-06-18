@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\bin\Debug\net9.0\Practica01_AgendaTelefonica.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\bin\Debug\net9.0\Practica01_AgendaTelefonica.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\bin\Debug\net9.0\Practica01_AgendaTelefonica.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\bin\Debug\net9.0\Practica01_AgendaTelefonica.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\bin\Debug\net9.0\Practica01_AgendaTelefonica.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\refint\Practica01_AgendaTelefonica.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\Practica01_AgendaTelefonica.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica01_AgendaTelefonica\obj\Debug\net9.0\ref\Practica01_AgendaTelefonica.dll
