@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\bin\Debug\net9.0\EjercicioListas.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\bin\Debug\net9.0\EjercicioListas.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\bin\Debug\net9.0\EjercicioListas.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\bin\Debug\net9.0\EjercicioListas.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\bin\Debug\net9.0\EjercicioListas.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\refint\EjercicioListas.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\EjercicioListas.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\EjerciciosSemana_6_ListasEnlazadas\EjercicioListas\obj\Debug\net9.0\ref\EjercicioListas.dll
