@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\bin\Debug\net9.0\Practica_02_Pilas_CSharp.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\bin\Debug\net9.0\Practica_02_Pilas_CSharp.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\bin\Debug\net9.0\Practica_02_Pilas_CSharp.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\bin\Debug\net9.0\Practica_02_Pilas_CSharp.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\bin\Debug\net9.0\Practica_02_Pilas_CSharp.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\refint\Practica_02_Pilas_CSharp.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\Practica_02_Pilas_CSharp.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_02_Pilas_CSharp\obj\Debug\net9.0\ref\Practica_02_Pilas_CSharp.dll
