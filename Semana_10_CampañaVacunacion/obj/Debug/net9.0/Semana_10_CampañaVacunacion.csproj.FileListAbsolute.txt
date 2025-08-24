@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\bin\Debug\net9.0\Semana_10_CampañaVacunacion.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\bin\Debug\net9.0\Semana_10_CampañaVacunacion.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\bin\Debug\net9.0\Semana_10_CampañaVacunacion.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\bin\Debug\net9.0\Semana_10_CampañaVacunacion.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\bin\Debug\net9.0\Semana_10_CampañaVacunacion.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\refint\Semana_10_CampañaVacunacion.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\Semana_10_CampañaVacunacion.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_10_CampañaVacunacion\obj\Debug\net9.0\ref\Semana_10_CampañaVacunacion.dll
