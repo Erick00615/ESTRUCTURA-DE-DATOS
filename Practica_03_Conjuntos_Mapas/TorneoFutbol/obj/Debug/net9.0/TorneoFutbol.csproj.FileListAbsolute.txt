@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\bin\Debug\net9.0\TorneoFutbol.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\bin\Debug\net9.0\TorneoFutbol.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\bin\Debug\net9.0\TorneoFutbol.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\bin\Debug\net9.0\TorneoFutbol.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\bin\Debug\net9.0\TorneoFutbol.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\refint\TorneoFutbol.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\TorneoFutbol.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Practica_03_Conjuntos_Mapas\TorneoFutbol\obj\Debug\net9.0\ref\TorneoFutbol.dll
