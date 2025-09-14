@@ -1,0 +1,15 @@
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\bin\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.exe
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\bin\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.deps.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\bin\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.runtimeconfig.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\bin\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\bin\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.AssemblyInfoInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.AssemblyInfo.cs
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.csproj.CoreCompileInputs.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.sourcelink.json
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\refint\Semana_13_Busqueda_Catalogo_Revistas.dll
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.pdb
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\Semana_13_Busqueda_Catalogo_Revistas.genruntimeconfig.cache
+C:\Users\Eli\.vscode\ESTRUCTURA-DE-DATOS\Semana_13_Busqueda_Catalogo_Revistas\obj\Debug\net9.0\ref\Semana_13_Busqueda_Catalogo_Revistas.dll
